@@ -12,8 +12,8 @@
 @@||www.amazon.com^$important
 @@||whatsapp.net^$important
 @@||fbcdn.net^$important
-@@||facebook.com^$important,denyallow=graph.facebook.com|lookaside.facebook.com|graph-fallback.facebook.com
-@@||instagram.com^$important,denyallow=graph.instagram.com|lookaside.instagram.com|graph-fallback.instagram.com
+@@||facebook.com^$important,denyallow=graph.facebook.com|lookaside.facebook.com|graph-fallback.facebook.com|b-graph.facebook.com
+@@||instagram.com^$important,denyallow=graph.instagram.com|lookaside.instagram.com|graph-fallback.instagram.com|b-graph.instagram.com
 @@||cdninstagram.com^$important
 @@||akamaihd.net^$important
 @@||akamaitechnologies.com^$important
