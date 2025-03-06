@@ -1,3 +1,4 @@
 ||www.googleadservices.com^$important
 /graph.*/$important
 /lookaside.*/$important
+/graph-fallback.*/$important
