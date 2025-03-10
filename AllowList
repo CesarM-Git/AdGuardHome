@@ -9,7 +9,7 @@
 @@||www.amazon.com.br^$important
 @@||whatsapp.com^$important
 @@||www.amazon.com^$important
-@@||whatsapp.net^$important,denyallow=graph.facebook.com
+@@||whatsapp.net^$important,denyallow=graph.whatsapp.com
 @@||fbcdn.net^$important
 @@||facebook.com^$important,denyallow=graph.facebook.com|lookaside.facebook.com|graph-fallback.facebook.com|b-graph.facebook.com
 @@||instagram.com^$important,denyallow=graph.instagram.com|lookaside.instagram.com|graph-fallback.instagram.com|b-graph.instagram.com
