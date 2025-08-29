@@ -31,3 +31,13 @@
 ||pop-br-cf.dash.pv-cdn.net^
 ||mediaservices.cdn-apple.com^
 ||truevpnreviews.net^
+||vod-dash-pv.amazon.fastly-edge.com^
+||ters-vod1.us-west-2.aiv-delivery.net^
+||b-graph-fallback.facebook.com^$important
+||cnstrc.com^
+||www.googleadservices.com^
+||pdx01.abs.hls.ttvnw.net^
+||ext-twitch.tv^
+||supervisor.ext-twitch.tv^
+||google.com^$domain=twitch.tv
+||passport.twitch.tv^
